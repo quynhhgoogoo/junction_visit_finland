@@ -1,6 +1,12 @@
-from flask import Flask
+import os
+import json
+from flask import Flask, request, render_template
+
 app = Flask(__name__)
 
-@app.route("/")
+@app.route('/',methods=['GET','POST'])
 def index():
-    return "<h1>Hello Azure!</h1>"
+    return render_template("heatmap.html", page_title="Heat Map")
+
+if __name__ == '__main__':
+    app.run()
