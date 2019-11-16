@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.0" creator="QGIS">
+<trk>
+<name>Punarinnankierros+return to Haltia</name>
+<cmt>Punarinnankierros with return to Haltia</cmt>
+<trkseg>
+<trkpt lat="60.308668540000" lon="24.547461940000">
+</trkpt>
+<trkpt lat="60.308812030000" lon="24.547060100000">
+</trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="60.308430010000" lon="24.546219690000">
+</trkpt>
+<trkpt lat="60.308294300000" lon="24.544709020000">
+</trkpt>
+<trkpt lat="60.307863580000" lon="24.543568140000">
+</trkpt>
+<trkpt lat="60.308132890000" lon="24.541809800000">
+</trkpt>
+<trkpt lat="60.308111210000" lon="24.540638200000">
+</trkpt>
+<trkpt lat="60.307921300000" lon="24.539696520000">
+</trkpt>
+<trkpt lat="60.307402810000" lon="24.538475420000">
+</trkpt>
+<trkpt lat="60.306873050000" lon="24.536646890000">
+</trkpt>
+<trkpt lat="60.306793980000" lon="24.535870720000">
+</trkpt>
+<trkpt lat="60.307516460000" lon="24.531818690000">
+</trkpt>
+<trkpt lat="60.307452430000" lon="24.530693770000">
+</trkpt>
+<trkpt lat="60.308599420000" lon="24.528608290000">
+</trkpt>
+<trkpt lat="60.309750130000" lon="24.525566370000">
+</trkpt>
+<trkpt lat="60.309918020000" lon="24.524163090000">
+</trkpt>
+<trkpt lat="60.309876760000" lon="24.521949990000">
+</trkpt>
+<trkpt lat="60.310012080000" lon="24.521114080000">
+</trkpt>
+<trkpt lat="60.309485330000" lon="24.519459260000">
+</trkpt>
+<trkpt lat="60.309921680000" lon="24.517427200000">
+</trkpt>
+<trkpt lat="60.309722240000" lon="24.517138160000">
+</trkpt>
+<trkpt lat="60.30979" lon="24.51662">
+</trkpt>
+</trkseg>
+<trkseg>
+<extensions>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+    <color>FF0000</color>
+</line>
+</extensions>
+<trkpt lat="60.30979" lon="24.51662">
+</trkpt>
+<trkpt lat="60.309892480000" lon="24.515865020000">
+</trkpt>
+<trkpt lat="60.309877060000" lon="24.515040530000">
+</trkpt>
+<trkpt lat="60.309714180000" lon="24.514401080000">
+</trkpt>
+<trkpt lat="60.309319360000" lon="24.514039990000">
+</trkpt>
+<trkpt lat="60.308627590000" lon="24.512788960000">
+</trkpt>
+<trkpt lat="60.308335530000" lon="24.512159370000">
+</trkpt>
+<trkpt lat="60.306291500000" lon="24.511228580000">
+</trkpt>
+<trkpt lat="60.305955970000" lon="24.511732070000">
+</trkpt>
+<trkpt lat="60.305806090000" lon="24.511786920000">
+</trkpt>
+<trkpt lat="60.305658230000" lon="24.513101670000">
+</trkpt>
+<trkpt lat="60.305898690000" lon="24.514430350000">
+</trkpt>
+<trkpt lat="60.305377510000" lon="24.515382400000">
+</trkpt>
+<trkpt lat="60.305151610000" lon="24.517137530000">
+</trkpt>
+<trkpt lat="60.305247000000" lon="24.518781370000">
+</trkpt>
+<trkpt lat="60.304808670000" lon="24.519553250000">
+</trkpt>
+<trkpt lat="60.304815960000" lon="24.519943730000">
+</trkpt>
+<trkpt lat="60.304977190000" lon="24.520496350000">
+</trkpt>
+<trkpt lat="60.305290260000" lon="24.522254040000">
+</trkpt>
+<trkpt lat="60.305597330000" lon="24.522534920000">
+</trkpt>
+<trkpt lat="60.305631810000" lon="24.523227510000">
+</trkpt>
+<trkpt lat="60.305537910000" lon="24.523973270000">
+</trkpt>
+<trkpt lat="60.305509410000" lon="24.524757520000">
+</trkpt>
+<trkpt lat="60.305203450000" lon="24.525693110000">
+</trkpt>
+<trkpt lat="60.305193230000" lon="24.526302170000">
+</trkpt>
+<trkpt lat="60.30532" lon="24.52637">
+</trkpt>
+</trkseg>
+<trkseg>
+<extensions>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+    <color>FAAB19</color>
+</line>
+</extensions>
+<trkpt lat="60.30532" lon="24.52637">
+</trkpt>
+<trkpt lat="60.305442980000" lon="24.526978470000">
+</trkpt>
+<trkpt lat="60.305739010000" lon="24.527825090000">
+</trkpt>
+<trkpt lat="60.305871680000" lon="24.529162010000">
+</trkpt>
+<trkpt lat="60.306124630000" lon="24.530011910000">
+</trkpt>
+<trkpt lat="60.306096090000" lon="24.530796170000">
+</trkpt>
+<trkpt lat="60.306822690000" lon="24.531610340000">
+</trkpt>
+<trkpt lat="60.306251300000" lon="24.533348030000">
+</trkpt>
+<trkpt lat="60.306067420000" lon="24.535056460000">
+</trkpt>
+<trkpt lat="60.306537240000" lon="24.535976970000">
+</trkpt>
+<trkpt lat="60.306934790000" lon="24.538814810000">
+</trkpt>
+<trkpt lat="60.306729150000" lon="24.539351690000">
+</trkpt>
+<trkpt lat="60.306144640000" lon="24.539221870000">
+</trkpt>
+<trkpt lat="60.305639190000" lon="24.539868190000">
+</trkpt>
+<trkpt lat="60.305119580000" lon="24.542079720000">
+</trkpt>
+<trkpt lat="60.305381950000" lon="24.542277250000">
+</trkpt>
+<trkpt lat="60.305252910000" lon="24.543460060000">
+</trkpt>
+<trkpt lat="60.305321630000" lon="24.544845270000">
+</trkpt>
+<trkpt lat="60.305186960000" lon="24.545724360000">
+</trkpt>
+<trkpt lat="60.305136000000" lon="24.546466810000">
+</trkpt>
+<trkpt lat="60.304598670000" lon="24.547723670000">
+</trkpt>
+<trkpt lat="60.304062920000" lon="24.549067250000">
+</trkpt>
+<trkpt lat="60.303470110000" lon="24.550531830000">
+</trkpt>
+<trkpt lat="60.303405180000" lon="24.550810940000">
+</trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="60.303405180000" lon="24.550810940000">
+</trkpt>
+<trkpt lat="60.302878540000" lon="24.551480340000">
+</trkpt>
+<trkpt lat="60.301575200000" lon="24.551534450000">
+</trkpt>
+<trkpt lat="60.300993110000" lon="24.551534570000">
+</trkpt>
+<trkpt lat="60.300172950000" lon="24.550900880000">
+</trkpt>
+<trkpt lat="60.298085420000" lon="24.551687020000">
+</trkpt>
+<trkpt lat="60.296464760000" lon="24.552655310000">
+</trkpt>
+<trkpt lat="60.295851990000" lon="24.553330970000">
+</trkpt>
+<trkpt lat="60.295132780000" lon="24.554666090000">
+</trkpt>
+<trkpt lat="60.294730130000" lon="24.556216400000">
+</trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="60.294730130000" lon="24.556216400000">
+</trkpt>
+<trkpt lat="60.294159450000" lon="24.557057120000">
+</trkpt>
+<trkpt lat="60.294265650000" lon="24.556750580000">
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
